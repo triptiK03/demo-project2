@@ -1,0 +1,2 @@
+if price fall future short will make money while future long will loose money
+~Long call long put / short call short put
