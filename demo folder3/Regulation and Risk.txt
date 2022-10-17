@@ -1,0 +1,107 @@
+<-------------Regulation and Risk ---------->
+Risk --->
+
+~Value at Risk(VAR) : used to measure lost of asset in worst case scenario.
+~Credit Risk : -Risk of debt issuer defaulting on credit obligation.
+	       -Result :- loss of principle investment, loss of expected cashflow.
+
+
+~Securirties Exchange Commission (SEC): -Protect Investors
+					-Maintain fair, orderly and efficient markets
+					-Facilitate capital formulation
+
+~Federal Reserve System(FED): -Maximize employment
+	                      -Keep prices stable by maintaining a 2% target inflation
+	                      -Moderate long-term interest rates
+
+~Financial Conduct Authority(FCA): -Protectconsumers
+				   -Protect financial markets
+	                           -Promote competition
+
+~Bank Of England(BOE): -Maintain monetary and fiscal stability
+		       -Keep prices stable by maintaining a 2% target inflation
+		       -Support economic growth and employment
+
+
+Regulatory rules --->
+
+TAKEN BY DIFFERENT CONTRIES TO PROTECT FROM THE SHOCK OF GLOBAL FINANCIAL MARKET.
+
+~Transaction Reporting : Data which contains information relating to transaction which is used to detect or investigate market abuse.
+
+~Ring Fencing : Its a barrier that segregates a portion of an individual or company's financial assest from the rest.Its only applicable to the UK banks.
+
+~Stress Testing : FED stress test assess whether banks are sufficiently capitalized to 	absorb losses during stressful condition.
+
+~Risk Management : 
+
+~Capital Investement :
+
+~IB Seperation :
+
+~Transparency : Accurate, up-to-date, detailed and publicly available information on trade and investment-related issues reduces trade costs.
+
+~Prop Trading : The Volcker Rule prohibits banks from using their own accounts for short-term proprietary trading of securities, derivatives, and commodity futures.
+
+~Market Abuse :	prohibits insider dealing, unlawful disclosure of inside information, and market manipulation.
+
+~Investor Protection : involves various measures established to protect the interests of investors from malpractices like Securities and Exchange Board of India (SEBI) is responsible for 		       regulations of the Mutual Funds and safeguard the interests of the investors.
+
+~OTC Derivative Reform : 
+
+~Electronic Trading :  setting up an account with a brokerage of your choice, including providing your contact and financial information—to facilitate electronic transfers between your bank                        and the brokerage.
+
+
+The Basel Committee --->
+
+Committee of central bank governors from 28 countries to enhance financial stability by improving supervision globally.
+
+Capital Adequacy -->
+
+~Minimum capital reserves a bank must have to absorb losses which acts as a protection for depositors.
+
+BASEL I Framework --> 
+~states a bank must have Capital ≥ 8% Risk Weighted Assets.   <----it had limitations
+
+BASEL II Framework -->
+~Build on 3 pillars : -minimum capital requirements.
+		      -Supervisory review and internal risk assessment process.
+		      -market discipline via disclosure of risk.
+-- 2008 crisis stated it was not enough due to •Too much leverage and inadequate liquidity buffers
+					       •Poor governance and risk management
+					       •Inappropriate incentive structures
+BASEL III -->
+
+~Capital Buffers :•Requires banks to hold more capital of higher quality
+
+~Leverage Ratio : •A minimum leverage ratio to ensure banks are not over leveraged
+
+~Liquid Coverage Ratio : •Requires banks to have sufficient liquid assets to withstand a 			         
+		          30-day stressed funding scenario
+
+~Net Stable Funding Ratio : •Long-term structural ratio designed to incentivize banks to                              
+			     use stable sources of funding
+
+MiFID I --->
+
+~Applicable to european banks aims to facilitate cross-border trading within the EU.
+~Covers - •Business conduct for investment firms
+	  •Authorization requirements for regulated markets
+	  •Regulatory reporting requirements to prevent market abuse
+	  •Trade transparency obligations for shares
+  	  •Rules on the admission of financial instruments to trading
+~Not enough realised in 2008 crisis.
+
+
+European Securities and Market Authority(ESMA) -->
+
+~Objective - investor protection , orderly markets , financial stability
+
+MiFID II ---> 
+
+~protection for investors
+~combination of MiFID and ESMA
+
+
+
+		
