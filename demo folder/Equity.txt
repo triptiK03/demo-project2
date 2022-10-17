@@ -1,0 +1,154 @@
+Equity -->
+
+~Amount of money that company's owner has put into it or owns.
+
+Equity Trading --> 
+
+~Private company to Public company through initial public offerings.
+~Private company equity is divided between shareholders | Public company Equity divided between new share holders(publics).
+~IPO - •First sale of shares to the public
+       •Shares trade on a stock exchange
+       •New rules and regulations
+
+Market Capitalization -->
+
+~A company’s worth, or its total market value, is called its market capitalization –or Market Cap.
+~Outstanding shares * Stock Price = Market Cap.
+
+Outstanding Shares: Shares issued by a public company and are freely available to be bought by anyone
+•Restricted Stock:Shares that can only be traded under SEC regulations
+•Floating Stock: Shares currently available to trade
+
+Dividends -->
+
+Dividends are a distribution of a portion of a company’s earnings –decided by the board of directors (can be cash or stock). These are typically paid twice a year.
+Investors invest in equities for two main reasons:
+•The capital value –share price
+•The dividend value –income
+
+Stock Exchanges -->
+
+~Stock exchanges are electronic marketplaces for trading of shares
+~NYSE , Nasdaq , Bombay Stock Exchange.
+
+Fundamentals of Trading -->
+
+~Buy Low and Sell high.
+~BULL MARKET : condition of market in which prices are rising or expected to rise.
+~BEAR MARKET : condition of market in which prices are falling or expected to fall.
+~Maximum fear - Good time to buy , Maximum business greed - Good time to sell.
+
+Why invest ? -->
+
+~Regular income
+~Capital Growth 
+~Long term investment
+~High liquidity
+~Transparent marketplace
+
+Market Participants -->
+
+~Day traders , High Frequency traders , Hedge funds , Individuals.  <-(Speculators)
+~Long term capital growth , Dividends. <-(Investors)
+~Provide liquidity. <-(Market Makers)
+
+Market Index -->
+
+~A market index tracks the performance of a certain group of stocks, bonds or other investments
+~Example : NASDAQ , S&P 500
+
+Circuit Breakers -->
+
+~Circuit breakers are measures used to curb panic selling on US Stock exchanges.
+~First put in place after Black Monday in 1987.
+~ Divided into levels - 
+•level 1 circuit breakers -a drop of 7%  ---> trading halt for 15mins
+•Level 2 circuit breakers –a drop of 13% ---> trading halts for 15mins
+•Level 3 circuit breakers –a drop of 20% ---> trading halts for the remaining day
+
+Stock Identifiers -->
+
+~Instrument Code/ticker : The main identifier of an instrument; does not list where it is traded
+e.g. AAPL
+
+~SEDOL : Stock exchange daily official list –7 characters
+e.g. B0YQ5W0
+
+~RIC (Reuters Identity Code): The Reuters-specific identity code: shows where the primary listing is
+e.g. AAPL.N
+
+~Bloomberg ID : Bloomberg ID for an instrument
+e.g. AAPL:US
+
+~ISIN: International securities identification number: 12 characters
+e.g. US0378331005
+
+~CUSIP :Committee on uniform securities identification procedures
+e.g. 037833100
+
+Types Of Equity Trading -->
+
+~Low Touch : Dealing with trading electronically.
+~High Touch : Tradition cash trading - verbal agreements.
+
+Order Type -->
+
+~Market : Execute orders regardles of price or buy & sell at best price possible.
+~Limit : Execute order at specific price.
+~Hidden limit : limit order where price and volume is not displayed.
+
+OrderBook -->
+
+~it shows live what orders in a stock are active on an exchange.
+•Bid –the maximum price a buyer is willing to pay for the stock
+•Ask –the minimum price a seller is willing to sell their stock for
+•Spread –the difference between the highest bid price and the lowest ask price
+•Consolidated order book –there may be multiple buyers/sellers at each level of the orderbook and it is consolidated into one view
+•MPID –market participant ID
+•BBO/NBBO –best bid and offer (national best bid and offer)
+•Liquidity–ease of converting security into cash without affecting its market price.
+
+One-Sided Book -->
+
+~When there is only sellers not buyers.
+~Private exchanges for trading securities.
+~
+
+Short Position -->
+
+~ Generally the sale of a stock you do not own.
+~Investors who sell short believe the price of the stock will decrease in value. If the price drops, you can buy the stock at the lower price and make a profit.
+~Loss is unlimited.
+
+Long Postion -->
+
+•Buying shares with the expectation they will increase in value
+•Maximum loss: the amount of money you invested
+•Maximum gain: unlimited
+
+Algorithmic Trading -->
+
+~to execute orders in a programmatic way around variables such as price, timing and volume
+~VWAP : use historical data to split an order to achieve average market price.
+~TWAP : split this order up evenly over the next two hours.
+~POV : take % of volume until done.
+~IS : Trade more when the price is favorable, less when not.
+
+Dark Pools -->
+
+~No orderbook visible to the public.
+~
+
+
+
+Market Makers -->
+
+~An individual participants or a member of firm that buys and sells securities for its own profit.
+~Goal- profit on the bid-ask spread.
+~Aims to keep the financial market liquid.
+
+
+
+
+
+

@@ -1,0 +1,85 @@
+Debt Products --->
+
+~A typical loan agreement is where a lender loans capital and the borrower pays back the capital with interest.
+~Lender loans capital -------><------- borrowers repays capital+interest.
+~
+Bonds --->
+
+~Issuing a bond is a way of raising money/capital.
+~Investors pay par value(issue price * quantity) to purchase bond.
+~Issuer repays bond par value + coupons.
+~Put option / Call option
+
+Coupons --->
+
+~Coupons are regular interest payments on a bond , it is paid semi-finally or anually.
+~Fixed - Fixed rate on the coupon.
+~Floating - Coupon is based on floating rate--such as LIBOR
+~Zero - No coupon issued at a discount to par value, that is , below capital repayments.
+
+Why to invest in bonds ? --->
+
+~Fixed income.
+~More predictable.
+~Long term investment.
+~Better rate than banks.
+~Return of Capital.
+~Lower risk than equities.
+
+Short term Debt -->
+
+~Maturity or tenure is usually 1-6 months for Commercial paper and less than 1 year for US Treasury bills
+~Short term debt is not registered with the SEC , so is less costly.
+
+Bond Types --->
+
+~Gilts - UK Government issued bonds.
+~T-Bills - US Treasury issued bonds.
+~Perpetual - Have no maturity date or guarantee of repayment.
+~Convertible - Have option to convert bond to equities.
+~Callable -  Can be redeemed by issuer before maturity.
+~Ordinated or Subordinated - ????????
+
+(Important)
+Bond and Interest Rate --->
+
+~Bond have inverse relationship to interest rate.
+~Higher the interest rate = lower the bond price.
+~lower the interest rate = higher the bond price.
+~The bigger the difference between the coupon rate and interest rate,the bigger price change.
+
+Duration Of bonds -->
+
+~Bond of more duration, price will fluctuate more and bond of less duration, price will fluctuate less.
+~Example : bond = 5 yrs , interest increases = 1% = Price drop of bond approx 5%.
+	   bond = 2 yrs , interest decreases = 1% = Price rise of bond approx 2%.
+~duration is diffrent from maturity date.
+
+Yield on a bond --->
+
+~Yield is measurement of return on a bond,the interest on your investment.
+~price rises = yield falls.
+~bond price falls when it is considered as riskier investment.
+~Junk bond : Junk bond with below par prices are known as high yield(risky investement).
+~ wrong method ------->[Yield = coupon / price ]<--------------
+
+Bond grades and ratings --->
+
+~Investement grade - AAA,AA (Government bonds) | A,BBB(High quality corporates)
+~High Yield Junks - BB,B(Non investment Grade Corporates, Highly speculative) | CCC,CC(Substantial risks,Extremely speculative)
+
+Bond Market Place --->
+
+~New Issues - •Prospective issuers engage an investment bank
+	      •The bank may underwrite the bonds
+	      •The bank offer them for resale to brokers or institutional clients
+~Secondary Market - •OTC – Over the Counter
+			•Brokers
+			•Investment Banks
+•Small volume Corporate Bonds is on electronic platforms:
+	•Liquidnet
+	•MarketAxess
+	•TradeWeb
+	•Bloomberg
+~Banks earn a profit on new issues based on a difference between the purchase price and selling price.
+
